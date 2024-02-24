@@ -1,0 +1,5 @@
+package utilitarios
+
+class ValidacaoDeEntradas
+{
+}
